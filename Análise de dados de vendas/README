@@ -1,0 +1,4 @@
+Pequeno estudo feito com os dados relativos a vendas online. O objetivo era responder a questão: Para compras de diferentes categorias ou preços,
+os adiantamentos e atrasos nas entregas afetam a avaliação dos clientes em relação a compra de maneira distinta?
+
+O estudo é feito em jupyter notebook. A fonte e a descrição dos dados se encontra em: https://www.kaggle.com/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv
